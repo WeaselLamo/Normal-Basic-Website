@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Myself</title>
+
+    <style>
+        body {
+            background-color: rgb(250, 121, 121);
+            height: 2000px;
+        }
+
+        #main {
+            text-align: center;
+        }
+
+        #h1 {
+            font-size: 75px;
+        }
+
+        #h2 {
+            font-size: 50px;
+            font-family: ballu bhai, cursive;
+        }
+
+        img {
+            display: block;
+            width: 20%;
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+        #caption {
+            font-size: 14px;
+            font-family: Gill Sans;
+        }
+
+        .container {
+            margin: 100px 70px;
+            padding: 75px;
+            width: 70%;
+            border-radius: 29px;
+            border: 2px solid white;
+            align-items: center;
+        }
+
+        .title {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <main id="main">
+        <h1 id="h1">Myself</h1>
+        <h2 id="h2">Mangesh Upadhyay</h2>
+    </main>
+    <div id="img">
+        <img src="img/myself.jpg" alt="Mangesh's Photo">
+        <small id="caption">Just a normal student From Universal College Of Engineering with biggest ambition in his
+            mind.</small>
+    </div>
+    <div class="container">
+        <h1 class="title">Talk About Legend</h1>
+        <p>
+            Mangesh was born on 25th september, 2003. at <b>Anuradha Hospital.</b><br>Upadhyay Mangesh is an aspiring
+            student Universal College Of Engineering situated at <i>Kaman</i>.
+            His life was with very upside down. He forced himself to overcome all that obstackles. He was born in a
+            middle class font-family
+            with people in family. Father, Mother and 4 sisters and himself.<br><br><br>
+
+            For more information<br> Check Out.
+            <a href="#" class="mangesh-link"><br><b>MANGESH UPADHYAY</b><br> <small>Edited and Commented by Gaurav
+                    Singh</small></a>
+        </p>
+        
+
+    </div>
+
+
+</body>
+
+</html>
